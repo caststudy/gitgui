@@ -6,7 +6,7 @@ public class test {
 	 System.out.println("version3");
 	 System.out.println("version4");
 	 
-	 System.out.println("sub");
+	 System.out.println("tomaster");
 	 
 	 
 	 
